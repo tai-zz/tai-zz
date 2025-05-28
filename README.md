@@ -1,8 +1,6 @@
-## Opaa
+## Opaa, prazer!!
 
-
-- 🌱 Estou atualmente aprendendo java
-- 📫 email pessoal: suix.tai@gmail.com
+## Meu nome é João Eduardo e atualmente estou estudando programação, focando apenas em Java!!
 
 
 <div style="display: inline_block"><br>
