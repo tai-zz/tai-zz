@@ -1,6 +1,7 @@
 ## Opaa, prazer!!
 
-## Meu nome é João Eduardo e atualmente estou estudando programação, focando apenas em Java!!
+## Meu nome é João Eduardo e atualmente estou cursando Analise e Desenvolvimento de Sistemas pela Universidade de Vila Velha.
+## Estou estudando java e entendendo por fora esse mundo incrivel de criar e desenvolver meus projetos e transmitir minhas ideias!
 
 
 <div style="display: inline_block"><br>
