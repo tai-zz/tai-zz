@@ -1,13 +1,26 @@
-## Opaa, prazer!!
+## 👋 Fala aí, eu sou o João (Tai)
 
-## Meu nome é João Eduardo e atualmente estou cursando Analise e Desenvolvimento de Sistemas pela Universidade de Vila Velha.
-## Estou estudando java e entendendo por fora esse mundo incrivel de criar e desenvolver meus projetos e transmitir minhas ideias!
+💻 Desenvolvedor em formação focado em Java e desenvolvimento de sistemas  
+🚀 Construindo projetos reais para evoluir na prática  
+📚 Atualmente estudando: Java, lógica e estrutura de projetos  
+🎯 Objetivo: me tornar um dev completo e pronto para o mercado  
+
+<div style="display: inline_block"><br>
+
+### 📌 Projetos em destaque
+🔹 LoginDesktopUniplus 
+🔹 SenhaDiaria
 
 
 <div style="display: inline_block"><br>
+
+  ### 🛠️ Tecnologias
   <img align="center" alt="tai-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="tai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="tai-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="tai-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+          
       
 
 </div>
