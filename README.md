@@ -1,4 +1,4 @@
-## 👋 Fala aí, eu sou o João (Tai)
+##  Fala aí, eu sou o João (Tai)👋
 
 💻 Desenvolvedor em formação focado em Java e desenvolvimento de sistemas  
 🚀 Construindo projetos reais para evoluir na prática  
